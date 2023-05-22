@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Maui", "Calculator.Maui\Calculator.Maui.csproj", "{7717DB20-31B4-4F7C-B4EF-62383C9E447D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7717DB20-31B4-4F7C-B4EF-62383C9E447D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7717DB20-31B4-4F7C-B4EF-62383C9E447D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7717DB20-31B4-4F7C-B4EF-62383C9E447D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7717DB20-31B4-4F7C-B4EF-62383C9E447D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
